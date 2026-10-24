@@ -6,7 +6,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=RAHUL%20BHASKAR&fontSize=58&fontColor=F8FAFC&fontAlignY=40&desc=AI%2FML%20%C2%B7%20RELIABLE%20AI%20%C2%B7%20AGENTIC%20SYSTEMS&descSize=15&descAlignY=64&color=0:0B1020,50:172554,100:312E81"
+  src="./banner.png"
   width="100%"
   alt="Rahul Bhaskar"
 />
